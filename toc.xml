@@ -1,0 +1,5 @@
+<Addon Name="VikingCastBar" Version="1" Author="VikingHug-Iglo" APIVersion="8" Description="Replaces the CastBar">
+    <Script Name="VikingCastBar.lua"/>
+    <Form Name="VikingCastBar.xml"/>
+    <ReplaceAddon Name="CastBar"/>
+</Addon>
